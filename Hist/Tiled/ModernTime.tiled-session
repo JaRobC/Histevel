@@ -1,0 +1,130 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tmx/Arene.tmx",
+    "expandedProjectPaths": [
+        "tsx",
+        "tmx",
+        "."
+    ],
+    "fileStates": {
+        "Arene.tmx": {
+            "scale": 2,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 44.75,
+                "y": 834.75
+            }
+        },
+        "BaseV1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "BaseV2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tmx/carte.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1.0165,
+            "selectedLayer": 9,
+            "viewCenter": {
+                "x": 399.9016232169208,
+                "y": 399.9016232169208
+            }
+        },
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tsx/Boss_int.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tsx/maison.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tsx/nature.tsx": {
+            "scaleInDock": 1
+        },
+        "FirstRoom.tmx": {
+            "scale": 0.8470833333333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 727.7914412198722,
+                "y": 538.908017707821
+            }
+        },
+        "ModernTileSet-Interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "ModernTileSet-Wall_Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tmx/Arene.tmx": {
+            "expandedObjectLayers": [
+                6
+            ],
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 535.5,
+                "y": 537.5
+            }
+        },
+        "tmx/BaseV2.tsx": {
+            "scaleInDock": 1
+        },
+        "tmx/FirstRoom.tmx": {
+            "scale": 0.558125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 420.1567749160134,
+                "y": 481.07502799552077
+            }
+        },
+        "tmx/ModernTileSet-Interior.tsx": {
+            "scaleInDock": 1
+        },
+        "tmx/ModernTileSet-Wall_Floor.tsx": {
+            "scaleInDock": 1
+        },
+        "tsx/BaseV2.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "tsx/ModernTileSet-Interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/ModernTileSet-Wall_Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Mathi/Desktop/code/Histevel/Tiled/tsx",
+    "last.imagePath": "C:/Users/Mathi/Desktop/code/Histevel/Tiled",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "tmx/Arene.tmx",
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tmx/carte.tmx"
+    ],
+    "project": "ModernTime.tiled-project",
+    "recentFiles": [
+        "C:/Users/Mathi/Desktop/code/NSI-Project-V-final/tmx/carte.tmx",
+        "tmx/Arene.tmx",
+        "tmx/FirstRoom.tmx",
+        "tsx/BaseV2.tsx",
+        "tsx/ModernTileSet-Interior.tsx",
+        "tsx/ModernTileSet-Wall_Floor.tsx",
+        "FirstRoom.tmx",
+        "Arene.tmx",
+        "ModernTileSet-Interior.tsx",
+        "ModernTileSet-Wall_Floor.tsx",
+        "BaseV2.tsx",
+        "BaseV1.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
